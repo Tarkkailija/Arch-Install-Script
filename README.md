@@ -1,2 +1,2 @@
 # Arch-Install-Script
-Personal arch install script. A way to practice bash scripting and linux, Hands on learning
+Personal Arch Installation Script. VM use only, Not optimized for bare metal installation but to be added soon
